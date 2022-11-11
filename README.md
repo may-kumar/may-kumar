@@ -1,6 +1,8 @@
 # Mayank Kumar 
-### Hi!
-Welcome to my github page. This is where I keep all projects I have worked on such as game implementations, app improvements or college assignments.
-You would also find other random stuff such as dot-files customizations I use or the sample "hello-world" repository.
+## Hi!
+Welcome to my github page.<br />
+
+This is where I keep a lot of the projects I have worked on like game implementations, app improvements or college assignments.<br />
+You can also find other random stuff here such as the dot-files customizations I use or my sample "hello-world" repository.
 
 Enjoy browsing around.
